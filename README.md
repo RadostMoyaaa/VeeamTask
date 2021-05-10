@@ -1,5 +1,8 @@
 # Veeam Software_Junior Developer in QA Тестовое Задание
 
+## Язык
+    Python 3.8.5
+
 ## [Библиотеки](requirements.txt)
     pip install -r requirements.txt
 
